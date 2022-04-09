@@ -1,4 +1,4 @@
-![Repo Size](https://img.shields.io/github/repo-size/Bored-Entertainment/themesacomplex?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/Minion-HQ/minion-hq.github.io?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Bored-Entertainment/themesacomplex?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Bored-Entertainment/themesacomplex?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/Bored-Entertainment/themesacomplex?style=for-the-badge)
